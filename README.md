@@ -6,9 +6,7 @@
 **🐱 My GitHub Data** 
 
 > 📦 166.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
+
 > 📜 9 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
