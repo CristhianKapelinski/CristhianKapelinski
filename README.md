@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -76,5 +76,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CristhianKapelinski/CristhianKapelinski/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2025 16:50:35 UTC
+ Last Updated on 17/09/2025 18:49:51 UTC
 <!--END_SECTION:waka-->
