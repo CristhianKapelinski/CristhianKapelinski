@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -42,16 +42,21 @@ Sunday                   348 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   27 mins             █████████████████████████   100.00 % 
+Python                   3 hrs 13 mins       █████████████████████░░░░   82.63 % 
+Markdown                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fac-backend              27 mins             █████████████████████████   100.00 % 
+fac-backend              3 hrs 33 mins       ███████████████████████░░   91.19 % 
+anon                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 
 💻 Operating System: 
-Linux                    27 mins             █████████████████████████   100.00 % 
+Linux                    3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +76,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CristhianKapelinski/CristhianKapelinski/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2025 01:39:17 UTC
+ Last Updated on 17/09/2025 16:50:35 UTC
 <!--END_SECTION:waka-->
