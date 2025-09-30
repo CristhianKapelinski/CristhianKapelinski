@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Atualiza todo dia à meia-noite (IST)
-    - cron: '30 18 * * *'
+    - cron:
   workflow_dispatch:
 
 jobs:
