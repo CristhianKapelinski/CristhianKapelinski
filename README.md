@@ -3,7 +3,7 @@
   <h3>Cybersecurity Researcher | Full-Stack Engineer | Algorithmic Problem Solver</h3>
 
   <p>
-    Computer Science Student at <a href="https://unipampa.edu.br">UNIPAMPA</a> (GPA 9.19/10) <br/>
+    Computer Science Student at <a href="https://unipampa.edu.br">UNIPAMPA</a><br/>
     Building privacy-preserving infrastructures and high-reliability software systems.
   </p>
 
@@ -77,5 +77,6 @@ My research focuses on automating vulnerability management and privacy preservat
   <img src="https://github-readme-stats.vercel.app/api?username=CristhianKapelinski&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianKapelinski&layout=compact&theme=transparent&hide_border=true&title_color=0077B5" height="150" alt="languages graph" />
 </div>
+
 
 
