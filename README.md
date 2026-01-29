@@ -10,7 +10,6 @@
   <div>
     <a href="https://www.linkedin.com/in/cristhiankapelinski"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="cristhianavila.aluno@unipampa.edu.br"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <img src="https://media.licdn.com/dms/image/v2/D4E2DAQE0KOmACtvlxw/profile-treasury-image-shrink_1280_1280/B4EZq4ZysDGcAQ-/0/1764030364692?e=1770256800&v=beta&t=m4rSEwWm18zgHDoSP6YbbbF7qjY5Zivth5YFwlsbZ1U"/>
   </div>
 </div>
 
@@ -78,3 +77,4 @@ My research focuses on automating vulnerability management and privacy preservat
   <img src="https://github-readme-stats.vercel.app/api?username=CristhianKapelinski&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianKapelinski&layout=compact&theme=transparent&hide_border=true&title_color=0077B5" height="150" alt="languages graph" />
 </div>
+
