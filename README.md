@@ -38,8 +38,8 @@ My research focuses on automating vulnerability management and privacy preservat
 
 | Paper | Context |
 | :--- | :--- |
-| **AnonLFI 2.0:** Extensible Architecture for PII Pseudonymization in CSIRTs | *Author* — Presented at ERRC 2025 (WRSeg). Achieving 100% precision in OCR/PDF scenarios. |
-| **Structured Extraction of Vulnerabilities** in OpenVAS Reports Using LLMs | *Co-author* — **🏆 2nd Best Paper Award** at ERRC 2025. |
+| **AnonLFI 2.0:** Extensible Architecture for PII Pseudonymization in CSIRTs with OCR and Technical Recognizers | *Author* — Presented at ERRC 2025 (WRSeg). Achieving 100% precision in OCR/PDF scenarios. |
+| **Structured Extraction of Vulnerabilities** in OpenVAS and Tenable WAS Reports Using LLMs | *Co-author* — **🏆 2nd Best Paper Award** at ERRC 2025. |
 
 ---
 
@@ -77,4 +77,5 @@ My research focuses on automating vulnerability management and privacy preservat
   <img src="https://github-readme-stats.vercel.app/api?username=CristhianKapelinski&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianKapelinski&layout=compact&theme=transparent&hide_border=true&title_color=0077B5" height="150" alt="languages graph" />
 </div>
+
 
