@@ -73,10 +73,6 @@ My research focuses on automating vulnerability management and privacy preservat
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristhianKapelinski&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianKapelinski&layout=compact&theme=transparent&hide_border=true&title_color=0077B5" height="150" alt="languages graph" />
-</div>
 
 
 
