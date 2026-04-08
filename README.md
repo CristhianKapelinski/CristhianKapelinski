@@ -1,78 +1,34 @@
-<div align="center">
-  <h1>Cristhian Kapelinski</h1>
-  <h3>Cybersecurity Researcher | Full-Stack Engineer | Algorithmic Problem Solver</h3>
+# Hi, I'm Cristhian 👋
 
-  <p>
-    Computer Science Student at <a href="https://unipampa.edu.br">UNIPAMPA</a><br/>
-    Building privacy-preserving infrastructures and high-reliability software systems.
-  </p>
+I'm a Computer Science student and Full-Stack Engineer from Brazil. I like building secure backend systems, optimizing data pipelines, and competing in algorithmic programming contests. 
 
-  <div>
-    <a href="https://www.linkedin.com/in/cristhiankapelinski"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="cristhianavila.aluno@unipampa.edu.br"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  </div>
-</div>
+Currently, I split my time between full-stack development and cybersecurity research, focusing on privacy-preserving architectures.
 
-<br/>
+### 🚀 What I'm up to
 
-## ⚡ Professional Impact & Research
+- **Engineering @ Alice Humam:** Building a reliability analysis platform for Petrobras. Working heavily with Python (FastAPI), React/Next.js, and scaling our test coverage from 0 to 90% using Jest/Pytest.
+- **Security Engineering & Applied AI:** Architecting highly scalable, privacy-preserving infrastructure for CSIRTs. My recent work focuses on solving operational bottlenecks in vulnerability data pipelines using GPU-accelerated NLP and large language models.
+- **Competitive Programming:** Proud member of the _Array de Noobs 2.0_ team. We recently secured a **Silver Medal 🥈** at the 2025 ICPC Brazil Regional First Phase.
 
-I operate at the intersection of **Information Security** and **Software Engineering**, applying rigorous algorithmic foundations to build secure and scalable systems.
+### 🛠️ Featured Work & Research
 
-### 🛡️ Security & Privacy Engineering (RNP)
-As a **Cybersecurity Research Fellow** at Brazil's National Research and Education Network:
-- **Architected AnonLFI 2.0:** A modular framework for PII pseudonymization in CSIRTs compliant with GDPR/LGPD.
-- **Performance Optimization:** Achieved a **136x throughput improvement** (2kbps → 272kbps) by implementing streaming processors and caching strategies.
-- **Cryptography:** Implemented HMAC-SHA256 reversible pseudonymization to enable secure threat intelligence sharing.
+I build systems that solve real-world cybersecurity data challenges at scale. Here are my main projects:
 
-### 🏭 Enterprise Software Engineering (Alice Humam / Petrobras)
-As a **Full-Stack Developer** working on reliability analysis platform:
-- **Testing Culture:** Architected a Jest testing suite from scratch, elevating code coverage from **0% to 90%** on critical components.
-- **Stack:** Developing statistical analysis tools using **FastAPI (Python)** and **React/Next.js (TypeScript)** in partnership with CeMEAI.
+- **[AnonShield](https://github.com/AnonShield/tool): Scalable On-Premise Pseudonymization** *(First Author)*
+  Designed a high-throughput framework for CSIRT vulnerability data. By implementing GPU-accelerated NER, streaming I/O, and LRU caching, the system reduces processing time for 550MB datasets from over 92 hours to under 10 minutes (a 738x speedup). Achieved a 94.2% F1-score and 96.7% recall ensuring GDPR/LGPD compliance without losing analytical utility.
 
----
+- **[MulitaMiner](https://github.com/AnonShield/MulitaMiner): LLM-based Vulnerability Extraction** *(Co-Author)*
+  Developed a tool leveraging LLMs (DeepSeek, GPT-4) to transform unstructured, heterogeneous OpenVAS PDF reports into structured datasets. Validated against a custom dataset of 6,700 vulnerabilities, achieving 96.18% recall and an F1-score of 93.55%. 
 
-## 📚 Selected Publications (2025)
+### 🛠️ Technical Arsenal
 
-My research focuses on automating vulnerability management and privacy preservation.
+**Core & Algorithms** <img src="https://skillicons.dev/icons?i=python,go,c,cpp" />
 
-| Paper | Context |
-| :--- | :--- |
-| **AnonLFI 2.0:** Extensible Architecture for PII Pseudonymization in CSIRTs with OCR and Technical Recognizers | *Author* — Presented at ERRC 2025 (WRSeg). Achieving 100% precision in OCR/PDF scenarios. |
-| **Structured Extraction of Vulnerabilities** in OpenVAS and Tenable WAS Reports Using LLMs | *Co-author* — **🏆 2nd Best Paper Award** at ERRC 2025. |
+**Backend & Systems** <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,mongodb" />
+
+**Frontend** <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux" />
+
+**Security & Ops** <img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
 
 ---
-
-## 🛠️ Technical Arsenal
-
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>Core & Algorithms</strong></td>
-    <td align="center" width="25%"><strong>Backend & Systems</strong></td>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Security & Ops</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cpp,c" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongo" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,linux,git,bash" />
-    </td>
-  </tr>
-</table>
-
-- **Competitive Programming:** Active competitor in ICPC (Silver Medal Regional 2025, 3rd Place RS Fase Zero).
-- **Security Tools:** OpenVAS/GVM, Tenable, Cryptographic Standards (NIST), GDPR Compliance.
-
----
-
-
-
-
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/cristhiankapelinski/) | [Lattes](http://lattes.cnpq.br/0100277568164430) | [Codeforces](https://codeforces.com/profile/Kapelinsky)
