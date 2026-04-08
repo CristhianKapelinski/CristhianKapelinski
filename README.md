@@ -6,7 +6,7 @@ Currently, I split my time between full-stack development and cybersecurity rese
 
 ### 🚀 What I'm up to
 
-- **Engineering @ Alice Humam:** Building a reliability analysis platform for Petrobras in partnership with CeMEAI/USP. Working heavily with Python (FastAPI), React/Next.js.
+- **Engineering @ Alice Humam:** Building a reliability analysis platform for **Petrobras**  in partnership with CeMEAI/USP. Working heavily with Python (FastAPI), React/Next.js.
 - **Security Engineering & Applied AI:** Architecting highly scalable, privacy-preserving infrastructure for CSIRTs. My recent work focuses on solving operational bottlenecks in vulnerability data pipelines using GPU-accelerated NLP and large language models.
 - **Competitive Programming:** Secured a **Silver Medal 🥈** at the 2025 ICPC Brazil Regional First Phase with team _Array de Noobs 2.0_.
 
