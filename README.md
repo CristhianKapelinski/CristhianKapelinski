@@ -6,9 +6,9 @@ Currently, I split my time between full-stack development and cybersecurity rese
 
 ### 🚀 What I'm up to
 
-- **Engineering @ Alice Humam:** Building a reliability analysis platform for Petrobras. Working heavily with Python (FastAPI), React/Next.js, and scaling our test coverage from 0 to 90% using Jest/Pytest.
+- **Engineering @ Alice Humam:** Building a reliability analysis platform for Petrobras in partnership with CeMEAI/USP. Working heavily with Python (FastAPI), React/Next.js, and scaling our test coverage from 0 to 90% using Jest/Pytest.
 - **Security Engineering & Applied AI:** Architecting highly scalable, privacy-preserving infrastructure for CSIRTs. My recent work focuses on solving operational bottlenecks in vulnerability data pipelines using GPU-accelerated NLP and large language models.
-- **Competitive Programming:** Proud member of the _Array de Noobs 2.0_ team. We recently secured a **Silver Medal 🥈** at the 2025 ICPC Brazil Regional First Phase.
+- **Competitive Programming:** Secured a **Silver Medal 🥈** at the 2025 ICPC Brazil Regional First Phase with team _Array de Noobs 2.0_.
 
 ### 🛠️ Featured Work & Research
 
@@ -22,13 +22,13 @@ I build systems that solve real-world cybersecurity data challenges at scale. He
 
 ### 🛠️ Technical Arsenal
 
-**Core & Algorithms** <img src="https://skillicons.dev/icons?i=python,go,c,cpp" />
+**Core & Algorithms** ![Core Skills](https://skillicons.dev/icons?i=python,go,c,cpp)
 
-**Backend & Systems** <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,mongodb" />
+**Backend & Systems** ![Backend Skills](https://skillicons.dev/icons?i=fastapi,nodejs,docker,mongodb)
 
-**Frontend** <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux" />
+**Frontend** ![Frontend Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux)
 
-**Security & Ops** <img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
+**Security & Ops** ![Ops Skills](https://skillicons.dev/icons?i=linux,bash,git,github)
 
 ---
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/cristhiankapelinski/) | [Lattes](http://lattes.cnpq.br/0100277568164430) | [Codeforces](https://codeforces.com/profile/Kapelinsky)
