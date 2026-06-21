@@ -40,7 +40,10 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 **Back-end & Data**
 
@@ -67,11 +70,12 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-**Front-end**
+**Front-end & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
@@ -94,6 +98,8 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 **Security & Crypto**
@@ -104,7 +110,7 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 ![HMAC-SHA256](https://img.shields.io/badge/HMAC--SHA256-525252?style=flat-square&logo=letsencrypt&logoColor=white)
 ![Ed25519](https://img.shields.io/badge/Ed25519-525252?style=flat-square)
 
-> Also hands-on with: lifelines, GraphSAGE, WeasyPrint, sentence-transformers (e5, bge-m3), BM25, BERTScore, Qwen-VL, PaddleOCR-VL, EMV/BR Code parsing, and AI-assisted development (Claude Code, OpenAI Codex, Gemini CLI).
+> Also hands-on with: Loki, Alertmanager, Grafana Alloy, Uptime Kuma, lifelines, GraphSAGE, WeasyPrint, sentence-transformers (e5, bge-m3), BM25, BERTScore, Qwen-VL, PaddleOCR-VL, EMV/BR Code parsing, and AI-assisted development (Claude Code, OpenAI Codex, Gemini CLI).
 
 ### 🏆 Awards & Certifications
 
