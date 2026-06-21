@@ -42,25 +42,31 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-**Back-end & Data**
+**Back-end**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+**Data Science & ML**
+
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
-![Redis](https://img.shields.io/badge/Celery_%2F_Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![lifelines](https://img.shields.io/badge/lifelines_(survival)-2C5985?style=flat-square)
 
-**AI · LLMs · ML/NLP**
+**AI · LLMs · NLP**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-5C3EE8?style=flat-square)
 ![vLLM](https://img.shields.io/badge/vLLM-FF6F61?style=flat-square)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-444444?style=flat-square)
 ![Opacus](https://img.shields.io/badge/Opacus_(DP--SGD)-792EE5?style=flat-square)
@@ -76,6 +82,9 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
@@ -87,7 +96,7 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
-**DevOps & Tooling**
+**DevOps & Observability**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -100,17 +109,15 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 **Security & Crypto**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-3268C5?style=flat-square&logo=wazuh&logoColor=white)
 ![OpenSSH](https://img.shields.io/badge/OpenSSH-4D4D4D?style=flat-square&logo=openssh&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract_OCR-5C3EE8?style=flat-square)
-![HMAC-SHA256](https://img.shields.io/badge/HMAC--SHA256-525252?style=flat-square&logo=letsencrypt&logoColor=white)
+![HMAC-SHA256](https://img.shields.io/badge/HMAC--SHA256-525252?style=flat-square)
 ![Ed25519](https://img.shields.io/badge/Ed25519-525252?style=flat-square)
 
-> Also hands-on with: Loki, Alertmanager, Grafana Alloy, Uptime Kuma, lifelines, GraphSAGE, WeasyPrint, sentence-transformers (e5, bge-m3), BM25, BERTScore, Qwen-VL, PaddleOCR-VL, EMV/BR Code parsing, and AI-assisted development (Claude Code, OpenAI Codex, Gemini CLI).
+> Also hands-on with: Loki, Alertmanager, Grafana Alloy, Uptime Kuma, GraphSAGE, WeasyPrint, sentence-transformers (e5, bge-m3), BM25, BERTScore, Qwen-VL, PaddleOCR-VL, EMV/BR Code parsing, and AI-assisted development (Claude Code, OpenAI Codex, Gemini CLI).
 
 ### 🏆 Awards & Certifications
 
