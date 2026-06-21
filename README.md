@@ -13,7 +13,6 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 ![Papers](https://img.shields.io/badge/Peer__reviewed_papers-4-2ea44f?style=flat-square)
 ![ICPC](https://img.shields.io/badge/ICPC-Silver_Medalist-C0C0C0?style=flat-square)
 ![Award](https://img.shields.io/badge/SBRC_2026-Best_Artifact-FFD700?style=flat-square)
-![Contributions](https://img.shields.io/badge/Contributions-3.2k%2Fyear-181717?style=flat-square&logo=github)
 
 ### 🚀 What I'm up to
 
