@@ -104,13 +104,6 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 
 > Also hands-on with: lifelines, GraphSAGE, WeasyPrint, sentence-transformers (e5, bge-m3), BM25, BERTScore, Qwen-VL, PaddleOCR-VL, EMV/BR Code parsing, and AI-assisted development (Claude Code, OpenAI Codex, Gemini CLI).
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CristhianKapelinski&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianKapelinski&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
-</p>
-
 ### 🏆 Awards & Certifications
 
 - 🥇 **Best Artifact Award**, SBRC 2026 (best artifact of the entire conference) and **Distinguished Artifact Reviewer**, SBRC 2026
