@@ -8,7 +8,7 @@
 
 **Computer Science senior (GPA 9.19/10) · Python back-end engineer and applied AI/security researcher.**
 
-I build secure, high-throughput back-end systems and do applied AI and security research: data pipelines, LLM/SLM systems, and statistical modeling for **Petrobras** (with CeMEAI/USP), **RNP**, and **ITA**. Author of 4 peer-reviewed papers (3 first-author, including BRACIS 2026, Springer LNAI), ICPC Silver Medalist, and winner of the SBRC 2026 Best Artifact Award.
+I build secure, high-throughput back-end systems and do applied AI and security research: data pipelines, LLM/SLM systems, and statistical modeling for **Petrobras** (with CeMEAI/USP), **RNP**, and **ITA**, plus current **adversarial-AI security** research at **Poli-USP/LARC** (Bradesco project). Author of 4 peer-reviewed papers (3 first-author, including BRACIS 2026, Springer LNAI), ICPC Silver Medalist, and winner of the SBRC 2026 Best Artifact Award.
 
 ![Papers](https://img.shields.io/badge/Peer__reviewed_papers-4-2ea44f?style=flat-square)
 ![ICPC](https://img.shields.io/badge/ICPC-Silver_Medalist-C0C0C0?style=flat-square)
@@ -16,15 +16,16 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 
 ### 🚀 What I'm up to
 
-- **R&D Fellow @ ITA (CYBERGUARD), CNPq:** distributed Go systems at scale (crawled 12M+ Docker Hub repos into an 84M-node Neo4j dependency graph, scanned 50k+ images into a 170M-finding public dataset) and privacy research on small language models (4-bit quantization, DP-SGD composed with HMAC pseudonymization across 96 LoRA adapters on a multi-GPU cluster).
-- **Back-end Engineer (R&D) @ Alice Humam (Petrobras, with CeMEAI/USP):** built the Python/FastAPI back-end of a reliability-analysis platform: ETL pipelines and survival-analysis models translated from research R code and verified numerically equivalent, plus the HTML reporting engine and a per-route observability layer (p50/p95/p99).
+- **Pre-Master's Research Fellow @ USP (Poli-USP/LARC), AI Security:** adversarial-AI / GenAI security in a Bradesco project, red team and blue team of LLMs (prompt injection, jailbreaks) and defenses (guardrails, input/output filters, detection).
+- **R&D Fellow @ ITA (CYBERGUARD), CNPq (Apr–Jul 2026):** distributed Go systems at scale (crawled 12M+ Docker Hub repos into an 84M-node Neo4j dependency graph, scanned 50k+ images into a 170M-finding public dataset) and privacy research on small language models (4-bit quantization, DP-SGD composed with HMAC pseudonymization across 96 LoRA adapters on a multi-GPU cluster).
+- **Back-end Engineer @ Alice Humam (Petrobras, with CeMEAI/USP, 2025–2026):** built the Python/FastAPI back-end of a reliability-analysis platform: ETL pipelines and survival-analysis models translated from research R code and verified numerically equivalent, plus the HTML reporting engine and a per-route observability layer (p50/p95/p99); over 15 months, 111k+ lines and 375 merged MRs, became the team code reviewer, and co-managed the dev team (Scrum/Kanban).
 - **Competitive Programming:** Silver Medal 🥈 at the 2025 ICPC Brazil Regional First Phase (team _Array de Noobs 2.0_).
 
 ### 🔬 Featured Work & Research
 
-- **[AnonShield](https://github.com/AnonShield/tool): Scalable On-Premise Pseudonymization** *(First author · SBRC 2026 Best Artifact, all 4 reproducibility badges)*
-  High-throughput pseudonymization for CSIRT vulnerability data. GPU-accelerated NER, streaming I/O, and LRU caching cut processing of a 550 MB dataset from over 92 hours to under 10 minutes (**738× faster**), at **94.2% F1** and **96.7% recall**, GDPR/LGPD-compliant without losing analytical utility.
-- **Decomposing Memorization Reduction in Privacy-Preserving Fine-Tuning of SLMs** *(First author · BRACIS 2026, Springer)*
+- **[AnonShield](https://github.com/AnonShield/anonshield): Scalable On-Premise Pseudonymization** *(First author · SBRC 2026 Best Artifact, all 4 reproducibility badges)*
+  High-throughput pseudonymization for CSIRT vulnerability data. GPU-accelerated NER, streaming I/O, and LRU caching cut processing of a 550 MB dataset from over 92 hours to under 10 minutes (**738× faster**), at **94.2% F1** and **96.4% recall**, GDPR/LGPD-compliant without losing analytical utility.
+- **[Decomposing Memorization Reduction in Privacy-Preserving Fine-Tuning of SLMs](https://arxiv.org/abs/2606.28479)** *(First author · BRACIS 2026, Springer)*
   First empirical study of how DP-SGD and HMAC pseudonymization compose when fine-tuning 1 to 3B language models on CSIRT data, across 96 LoRA adapters and a dual extraction attack.
 - **[MulitaMiner](https://github.com/AnonShield/MulitaMiner): LLM-based Vulnerability Extraction** *(Co-author)*
   LLM pipeline (DeepSeek, GPT-4) turning unstructured OpenVAS PDF reports into structured datasets: 96.18% recall and 93.55% F1 on a 6,700-vulnerability benchmark.
