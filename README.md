@@ -6,18 +6,18 @@
 [![Lattes](https://img.shields.io/badge/Lattes-005A9C?style=flat-square)](http://lattes.cnpq.br/0100277568164430)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kapelinsky)
 
-**Computer Science senior (GPA 9.19/10) · Python back-end engineer and applied AI/security researcher.**
+**Computer Science senior (GPA 9.23/10) · Python back-end engineer and applied AI/security researcher.**
 
-I build secure, high-throughput back-end systems and do applied AI and security research: data pipelines, LLM/SLM systems, and statistical modeling for **Petrobras** (with CeMEAI/USP), **RNP**, and **ITA**, plus current **adversarial-AI security** research at **Poli-USP/LARC** (Bradesco project). Author of 4 peer-reviewed papers (3 first-author, including BRACIS 2026, Springer LNAI), ICPC Silver Medalist, and winner of the SBRC 2026 Best Artifact Award.
+I build secure, high-throughput back-end systems and do applied AI and security research: data pipelines, LLM/SLM systems, and statistical modeling for **Petrobras** (with CeMEAI/USP), **RNP**, and **ITA**, plus current **adversarial-AI security** research at **Poli-USP/LARC** (Bradesco project). 19 accepted peer-reviewed publications (10 first-author), including **BRACIS 2026** (Springer LNAI) and the **SBRC 2026 Best Artifact Award**. ICPC Silver Medalist. Most of my papers ship with a public reproducibility artifact.
 
-![Papers](https://img.shields.io/badge/Peer__reviewed_papers-4-2ea44f?style=flat-square)
+![Publications](https://img.shields.io/badge/Peer__reviewed_publications-19-2ea44f?style=flat-square)
 ![ICPC](https://img.shields.io/badge/ICPC-Silver_Medalist-C0C0C0?style=flat-square)
 ![Award](https://img.shields.io/badge/SBRC_2026-Best_Artifact-FFD700?style=flat-square)
 
-### 🚀 What I'm up to
+### 🚀 Current & recent work
 
 - **Pre-Master's Research Fellow @ USP (Poli-USP/LARC), AI Security:** adversarial-AI / GenAI security in a Bradesco project, red team and blue team of LLMs (prompt injection, jailbreaks) and defenses (guardrails, input/output filters, detection).
-- **R&D Fellow @ ITA (CYBERGUARD), CNPq (Apr–Jul 2026):** distributed Go systems at scale (crawled 12M+ Docker Hub repos into an 84M-node Neo4j dependency graph, scanned 50k+ images into a 170M-finding public dataset) and privacy research on small language models (4-bit quantization, DP-SGD composed with HMAC pseudonymization across 96 LoRA adapters on a multi-GPU cluster).
+- **R&D Fellow @ ITA (CYBERGUARD), CNPq (Apr–Jul 2026):** co-authored the SBSeg 2026 tutorial *Inteligência Artificial aplicada à Resposta a Incidentes*, contributing the case studies on ticket anonymization, incident classification, and LLM-assisted response playbooks.
 - **Back-end Engineer @ Alice Humam (Petrobras, with CeMEAI/USP, 2025–2026):** built the Python/FastAPI back-end of a reliability-analysis platform: ETL pipelines and survival-analysis models translated from research R code and verified numerically equivalent, plus the HTML reporting engine and a per-route observability layer (p50/p95/p99); over 16 months, 111k+ lines and 375 merged MRs, became the team code reviewer, and co-managed the dev team (Scrum/Kanban).
 - **Competitive Programming:** Silver Medal 🥈 at the 2025 ICPC Brazil Regional First Phase (team _Array de Noobs 2.0_).
 
@@ -27,8 +27,16 @@ I build secure, high-throughput back-end systems and do applied AI and security 
   High-throughput pseudonymization for CSIRT vulnerability data. GPU-accelerated NER, streaming I/O, and LRU caching cut processing of a 550 MB dataset from over 92 hours to under 10 minutes (**738× faster**), at **94.2% F1** and **96.4% recall**, GDPR/LGPD-compliant without losing analytical utility.
 - **[Decomposing Memorization Reduction in Privacy-Preserving Fine-Tuning of SLMs](https://arxiv.org/abs/2606.28479)** *(First author · BRACIS 2026, Springer)*
   First empirical study of how DP-SGD and HMAC pseudonymization compose when fine-tuning 1 to 3B language models on CSIRT data, across 96 LoRA adapters and a dual extraction attack.
-- **[MulitaMiner](https://github.com/AnonShield/MulitaMiner): LLM-based Vulnerability Extraction** *(Co-author)*
-  LLM pipeline (DeepSeek, GPT-4) turning unstructured OpenVAS PDF reports into structured datasets: 96.18% recall and 93.55% F1 on a 6,700-vulnerability benchmark.
+- **[Not All 4-bit Quantizers Are Equal](https://github.com/CristhianKapelinski/quantizer-pii-mitigation)** *(First author · SBSeg 2026, full paper)*
+  The choice of 4-bit quantizer changes how much PII a fine-tuned model leaks at deployment time, not just its speed. AWQ, GPTQ and GGUF compared across five 0.5–7B SLMs, with the calibration-corpus axis isolated by four ablations. Artifact reproduces **141/141** published values.
+- **Large-Scale Docker Hub Security Measurement** *(First author · two SBSeg 2026 short papers)*
+  Distributed **Go** crawler over **12M+ repositories**, an **84M-node** image dependency graph in Neo4j, and 50k+ high-exposure images scanned with six scanners into a public **170M-finding** dataset. Two artifacts: a [multi-scanner census of Linux base images](https://github.com/ChimangoScan/os-census) and a [uniform random-sample measurement](https://github.com/ChimangoScan/chimango-baseline) of the registry.
+- **[ZeroLINC](https://github.com/CristhianKapelinski/zerolinc): Training-Free Incident Triage** *(First author · SBSeg 2026, tool track)*
+  Classifies CSIRT/SOC incident reports into the 12 NIST SP 800-61r3-derived categories with **no training**: a k-NN instance-memory engine at **90.8%** and a zero-shot engine, behind one command and running locally. [Measurement study](https://github.com/CristhianKapelinski/zerolinc-benchmark) behind it: 293 runs.
+- **[CryptoCensus](https://github.com/CristhianKapelinski/cryptocensus): Post-Quantum Readiness of Docker Hub** *(First author · WTICG/SBSeg 2026)*
+  Distributed census of **11,962 images** and over **4.2 million cryptographic assets**, measuring how far the registry is from post-quantum migration.
+
+More reproducibility artifacts: [RAGtrap](https://github.com/CristhianKapelinski/sbseg2026-ragtrap) (signed provenance with O(1) traceback for poisoned RAG corpora) · [PixGuard-Sim](https://github.com/CristhianKapelinski/sbseg2026-pixguard-sim) (deadline-aware testbed for Pix fraud detectors) · [wazuh-study](https://github.com/CristhianKapelinski/wazuh-study) (LLM-generated SIEM rules on real SSH logs) · [AdminForge](https://github.com/BagualOps/adminforge-sbseg2026) (agentless privileged-identity management for Linux fleets) · [MulitaMiner](https://github.com/AnonShield/MulitaMiner) (LLM extraction of OpenVAS reports, 93.55% F1).
 
 ### 🛠️ Tech Stack
 
