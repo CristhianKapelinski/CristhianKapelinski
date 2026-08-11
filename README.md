@@ -10,7 +10,7 @@
 
 I build secure, high-throughput back-end systems and do applied AI and security research: data pipelines, LLM/SLM systems, and statistical modeling for **Petrobras** (with CeMEAI/USP), **RNP**, and **ITA**, plus current **adversarial-AI security** research at **Poli-USP/LARC** (Bradesco project). 19 accepted peer-reviewed publications (10 first-author), including **BRACIS 2026** (Springer LNAI) and the **SBRC 2026 Best Artifact Award**. ICPC Silver Medalist. Most of my papers ship with a public reproducibility artifact.
 
-![Publications](https://img.shields.io/badge/Peer__reviewed_publications-19-2ea44f?style=flat-square)
+![Publications](https://img.shields.io/badge/Peer__reviewed_publications-21-2ea44f?style=flat-square)
 ![ICPC](https://img.shields.io/badge/ICPC-Silver_Medalist-C0C0C0?style=flat-square)
 ![Award](https://img.shields.io/badge/SBRC_2026-Best_Artifact-FFD700?style=flat-square)
 
