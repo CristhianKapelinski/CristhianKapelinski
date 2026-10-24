@@ -8,7 +8,7 @@
 
 **Computer Science senior (GPA 9.23/10) · Python back-end engineer and applied AI/security researcher.**
 
-I build secure, high-throughput back-end systems and do applied AI and security research: data pipelines, LLM/SLM systems, and statistical modeling. Currently on **adversarial-AI security** at **Poli-USP/LARC** (Bradesco project) and on vulnerability-data pseudonymization at **RNP**, after R&D work at **ITA**. 21 accepted peer-reviewed publications (12 first-author), including **BRACIS 2026** (Springer LNCS) and the **SBRC 2026 Best Artifact Award**. ICPC Silver Medalist. Most of my papers ship with a public reproducibility artifact.
+I build secure, high-throughput back-end systems and do applied AI and security research: data pipelines, LLM/SLM systems, and statistical modeling for **Petrobras** (with CeMEAI/USP), **RNP**, and **ITA**, plus current **adversarial-AI security** research at **Poli-USP/LARC** (Bradesco project). 21 accepted peer-reviewed publications (12 first-author), including **BRACIS 2026** (Springer LNCS) and the **SBRC 2026 Best Artifact Award**. ICPC Silver Medalist. Most of my papers ship with a public reproducibility artifact.
 
 ![Publications](https://img.shields.io/badge/Peer__reviewed_publications-21-2ea44f?style=flat-square)
 ![ICPC](https://img.shields.io/badge/ICPC-Silver_Medalist-C0C0C0?style=flat-square)
@@ -16,12 +16,13 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 
 ### 💼 Experience
 
-- **Pre-Master's AI Security Research Fellow @ USP (Poli-USP/LARC), Jul 2026 to present:** purple team of an adversarial-AI project with Bradesco on LLM systems, on both the attacking and the defending side, running published jailbreak and prompt-injection suites against production models and measuring how many get through.
+- **Pre-Master's AI Security Research Fellow @ USP (Poli-USP/LARC), Jul 2026 to present:** adversarial-AI / GenAI security in a Bradesco project, red team and blue team of LLMs (prompt injection, jailbreaks) and defenses (guardrails, input/output filters, detection).
 - **Cybersecurity Research Fellow @ RNP (CT-Cibersegurança, Phase 2), Oct 2026 to present:** [AnonShield](https://github.com/AnonShield/anonshield) on CSIRT vulnerability data and a public synthetic vulnerability dataset.
 - **R&D Fellow in AI & Cybersecurity @ ITA (CYBERGUARD), CNPq, Apr to Jul 2026:** co-authored the SBSeg 2026 short course *Inteligência Artificial aplicada à Resposta a Incidentes*, contributing the case studies on ticket anonymization, incident classification, and LLM-assisted response playbooks, each as a notebook that runs without a GPU or API key ([sbseg26-mc1.github.io](https://sbseg26-mc1.github.io/)).
-- **Full-Stack Developer, Python back-end focus @ Alice Humam, Apr 2025 to Jul 2026:** Python/FastAPI back-end for statistical data analysis: an ETL pipeline with robust outlier detection and multiple imputation, survival analysis in Python verified numerically against R reference code, an HTML reporting engine (WeasyPrint), and a per-route observability layer (p50/p95/p99). Over 16 months, 111k+ lines and 375 merged MRs; became the team code reviewer and co-managed the dev team (Scrum/Kanban).
+- **Back-end Engineer @ Alice Humam (Petrobras, with CeMEAI/USP), Apr 2025 to Jul 2026:** built the Python/FastAPI back-end of a reliability-analysis platform: ETL pipelines and survival-analysis models translated from research R code and verified numerically equivalent, plus the HTML reporting engine and a per-route observability layer (p50/p95/p99); over 16 months, 111k+ lines and 375 merged MRs, became the team code reviewer, and co-managed the dev team (Scrum/Kanban).
 - **R&D Fellow in Cybersecurity @ RNP, Oct to Dec 2025:** an LLM pipeline (GPT-4, DeepSeek, Llama) that turns heterogeneous PDF security reports into structured datasets, and the GPU-accelerated pseudonymization that became AnonShield (92 h to under 10 min); 3 published papers.
 - **Undergraduate R&D Fellow @ UNIPAMPA (Egress@s SAVE), Sep 2024 to Apr 2025:** full-stack alumni-tracking platform (Next.js, React, TypeScript, MongoDB) used to evaluate the CS curriculum; registered with INPI, released under CC BY 4.0, and published at SBIE 2026.
+- **Competitive Programming:** Silver Medal 🥈 at the 2025 ICPC Brazil Regional First Phase (team _Array de Noobs 2.0_).
 
 ### 🔬 Featured Work & Research
 
@@ -108,6 +109,7 @@ More reproducibility artifacts: [RAGtrap](https://github.com/CristhianKapelinski
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
