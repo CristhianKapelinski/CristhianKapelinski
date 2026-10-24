@@ -16,7 +16,7 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 
 ### 💼 Experience
 
-- **Pre-Master's AI Security Research Fellow @ USP (Poli-USP/LARC), Jul 2026 to present:** adversarial-AI / GenAI security in a Bradesco project, red team and blue team of LLMs (prompt injection, jailbreaks) and defenses (guardrails, input/output filters, detection).
+- **Pre-Master's AI Security Research Fellow @ USP (Poli-USP/LARC), Jul 2026 to present:** adversarial-AI / GenAI security in a Bradesco project, red team and blue team of LLMs (prompt injection, jailbreaks) and defenses.
 - **Cybersecurity Research Fellow @ RNP (CT-Cibersegurança, Phase 2), Oct 2026 to present:** [AnonShield](https://github.com/AnonShield/anonshield) on CSIRT vulnerability data and a public synthetic vulnerability dataset.
 - **R&D Fellow in AI & Cybersecurity @ ITA (CYBERGUARD), CNPq, Apr to Jul 2026:** co-authored the SBSeg 2026 short course *Inteligência Artificial aplicada à Resposta a Incidentes*, contributing the case studies on ticket anonymization, incident classification, and LLM-assisted response playbooks, each as a notebook that runs without a GPU or API key ([sbseg26-mc1.github.io](https://sbseg26-mc1.github.io/)).
 - **Back-end Engineer @ Alice Humam (Petrobras, with CeMEAI/USP), Apr 2025 to Jul 2026:** built the Python/FastAPI back-end of a reliability-analysis platform: ETL pipelines and survival-analysis models translated from research R code and verified numerically equivalent, plus the HTML reporting engine and a per-route observability layer (p50/p95/p99); over 16 months, 111k+ lines and 375 merged MRs, became the team code reviewer, and co-managed the dev team (Scrum/Kanban).
