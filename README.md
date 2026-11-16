@@ -7,9 +7,9 @@
 [![Lattes](https://img.shields.io/badge/Lattes-005A9C?style=flat-square)](http://lattes.cnpq.br/0100277568164430)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kapelinsky)
 
-**Computer Science senior (GPA 9.23/10) · Python back-end engineer and applied AI/security researcher.**
+**Computer Science senior (GPA 9.26/10) · Software engineer on F2AI's OPERA AI platform · Python back-end and applied AI/security researcher.**
 
-I build secure, high-throughput back-end systems and do applied AI and security research: data pipelines, LLM/SLM systems, and statistical modeling for **Petrobras** (with CeMEAI/USP), **RNP**, and **ITA**, plus current **adversarial-AI security** research at **Poli-USP/LARC** (Bradesco project). 20 accepted peer-reviewed publications (12 first-author), including **BRACIS 2026** (Springer LNCS) and the **SBRC 2026 Best Artifact Award**, plus 1 short course at SBSeg 2026. ICPC Silver Medalist. Most of my papers ship with a public reproducibility artifact.
+Today I'm a software engineer on **OPERA**, **F2AI**'s on-premises enterprise AI platform. I build secure, high-throughput back-end systems and do applied AI and security research: data pipelines, LLM/SLM systems, and statistical modeling for **Petrobras** (with CeMEAI/USP), **RNP**, and **ITA**, plus current **adversarial-AI security** research at **Poli-USP/LARC** (Bradesco project). 20 accepted peer-reviewed publications (12 first-author), including **BRACIS 2026** (Springer LNCS) and the **SBRC 2026 Best Artifact Award**, plus 1 short course at SBSeg 2026. ICPC Silver Medalist. 7,600+ GitHub contributions in the past year. Most of my papers ship with a public reproducibility artifact.
 
 ![Publications](https://img.shields.io/badge/Peer__reviewed_publications-20-2ea44f?style=flat-square)
 ![ICPC](https://img.shields.io/badge/ICPC-Silver_Medalist-C0C0C0?style=flat-square)
@@ -17,10 +17,11 @@ I build secure, high-throughput back-end systems and do applied AI and security 
 
 ### 💼 Experience
 
+- **Software Engineer, AI Platform @ [F2AI](https://f2ai.com.br) (F2IT), Oct 2026 to present:** back-end engineer on OPERA, a platform that runs LLMs in production for regulated organizations (one API gateway for self-hosted and cloud models, with routing, governance, compliance, cost tracking and auditing), across its Python AI runtime and its Kubernetes infrastructure. Part of the platform's high-availability re-architecture for on-premises clusters: consolidated the RAG vector search and the runtime's data into the main database, and rebuilt distributed task processing (Celery, RabbitMQ) with event-driven autoscaling (KEDA). I own changes from design to deploy (code, tests, CI quality gates, Kubernetes manifests, staging) through GitHub pull requests with peer review.
 - **Pre-Master's AI Security Research Fellow @ USP (Poli-USP/LARC), Jul 2026 to present:** adversarial-AI / GenAI security in a Bradesco project, red team and blue team of LLMs (prompt injection, jailbreaks) and defenses.
 - **Cybersecurity Research Fellow @ RNP (CT-Cibersegurança, Phase 2), Oct 2026 to present:** [AnonShield](https://github.com/AnonShield/anonshield) on CSIRT vulnerability data and a public synthetic vulnerability dataset.
 - **R&D Fellow in AI & Cybersecurity @ ITA (CYBERGUARD), CNPq, Apr to Jul 2026:** co-authored the SBSeg 2026 short course *Inteligência Artificial aplicada à Resposta a Incidentes*, contributing the case studies on ticket anonymization, incident classification, and LLM-assisted response playbooks, each as a notebook that runs without a GPU or API key ([sbseg26-mc1.github.io](https://sbseg26-mc1.github.io/)).
-- **Back-end Engineer @ Alice Humam (Petrobras, with CeMEAI/USP), Apr 2025 to Jul 2026:** built the Python/FastAPI back-end of a reliability-analysis platform: ETL pipelines and survival-analysis models translated from research R code and verified numerically equivalent, plus the HTML reporting engine and a per-route observability layer (p50/p95/p99); over 16 months, 111k+ lines and 375 merged MRs, became the team code reviewer, and co-managed the dev team (Scrum/Kanban).
+- **Back-end Engineer @ Alice Human (Petrobras, with CeMEAI/USP), Apr 2025 to Jul 2026:** built the Python/FastAPI back-end of a reliability-analysis platform: ETL pipelines and survival-analysis models translated from research R code and verified numerically equivalent, plus the HTML reporting engine and a per-route observability layer (p50/p95/p99); over 16 months, 111k+ lines and 375 merged MRs, became the team code reviewer, and co-managed the dev team (Scrum/Kanban).
 - **R&D Fellow in Cybersecurity @ RNP, Oct to Dec 2025:** an LLM pipeline (GPT-4, DeepSeek, Llama) that turns heterogeneous PDF security reports into structured datasets, and the GPU-accelerated pseudonymization that became AnonShield (92 h to under 10 min); 3 published papers.
 - **Undergraduate R&D Fellow @ UNIPAMPA (Egress@s SAVE), Sep 2024 to Apr 2025:** full-stack alumni-tracking platform (Next.js, React, TypeScript, MongoDB) used to evaluate the CS curriculum; registered with INPI, released under CC BY 4.0, and published at SBIE 2026.
 - **Competitive Programming:** Silver Medal 🥈 at the 2025 ICPC Brazil Regional First Phase (team _Array de Noobs 2.0_).
@@ -41,6 +42,12 @@ I build secure, high-throughput back-end systems and do applied AI and security 
   Distributed census of **11,962 images** and over **4.2 million cryptographic assets**, measuring how far the registry is from post-quantum migration.
 
 More reproducibility artifacts: [RAGtrap](https://github.com/CristhianKapelinski/sbseg2026-ragtrap) (signed provenance with O(1) traceback for poisoned RAG corpora) · [PixGuard-Sim](https://github.com/CristhianKapelinski/sbseg2026-pixguard-sim) (deadline-aware testbed for Pix fraud detectors) · [wazuh-study](https://github.com/CristhianKapelinski/wazuh-study) (LLM-generated SIEM rules on real SSH logs) · [AdminForge](https://github.com/BagualOps/adminforge-sbseg2026) (agentless privileged-identity management for Linux fleets) · [MulitaMiner](https://github.com/AnonShield/MulitaMiner) (LLM extraction of OpenVAS reports, 93.55% F1) · [CulturaQuant](https://github.com/CristhianKapelinski/culturaquant-artifact) (ENIAC 2026: quantization and Brazilian cultural knowledge in 11 open models) · [Reading Brazil](https://github.com/CristhianKapelinski/ocr-ptbr-benchmark) (ENIAC 2026: cost-versus-accuracy benchmark of 14 open OCR engines on Brazilian documents).
+
+### 🌐 Software in Production
+
+- **[AnonShield](https://anonshield.org)**: on-premise pseudonymization of vulnerability data for CSIRTs, live with an in-browser demo; Docker Hub image with **4,382 pulls** (Nov 2026) and CI/CD that tests, scans and ships on every push.
+- **[TocaiaCTF](https://tocaiactf.com)**: cybersecurity challenge platform of the Pampa CTF project, with **28 tracks and 240 challenges** in Portuguese, English and Spanish; CI/CD with Playwright tests and deploys with automatic rollback.
+- **[POSCOMP.com.br](https://poscomp.com.br)**: question-based study for Brazil's computing graduate admission exam, with **1,540 official questions**; **106 accounts and 7,696 answers** since Jul 2026; blue-green deploy with health checks.
 
 ### 🛠️ Tech Stack
 
@@ -63,6 +70,7 @@ More reproducibility artifacts: [RAGtrap](https://github.com/CristhianKapelinski
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
@@ -135,6 +143,7 @@ More reproducibility artifacts: [RAGtrap](https://github.com/CristhianKapelinski
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![KEDA](https://img.shields.io/badge/KEDA-326CE5?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
